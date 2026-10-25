@@ -2,7 +2,7 @@
 
 **Can a player's recent workload warn teams that an injury is coming?** NBA teams invest heavily in load management, but the league's own analytics group has reported finding no meaningful link between schedule density and injury. This project tests that question independently, building machine learning models that predict whether a player will be placed on the injured list within the next 7 days based only on workload information known before each game.
 
-📓 [View the notebook](nba_injury_risk_model.ipynb) · 📄 [Read the white paper (PDF)](nba_injury_risk_white_paper.pdf) · 📊 [View the slides (PDF)](nba_injury_risk_presentation.pdf)
+📓 [Notebook](nba_injury_risk_model.ipynb) · 📄 [Paper](nba_injury_risk_white_paper.pdf) · 📊 [Presentation](nba_injury_risk_presentation.pdf)
 
 ---
 
